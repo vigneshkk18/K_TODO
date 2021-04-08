@@ -278,17 +278,3 @@ const TitleText = styled.Text`
 `;
 
 export default HomeScreen;
-
-{/*
-
-
-
-	showMessage({
-  message: "My message title",
-  description: "My message description",
-  type: "default",
-  backgroundColor: "purple", // background color
-  color: "#606060", // text color
-});
-
-*/}
