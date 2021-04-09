@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "K_Chat_K",
-    "slug": "K_Chat_K",
+    "name": "K_TODO",
+    "slug": "K_TODO",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,9 +21,10 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/to-do-list.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.vignesh_k.K_TODO"
     },
     "web": {
       "favicon": "./assets/favicon.png"
